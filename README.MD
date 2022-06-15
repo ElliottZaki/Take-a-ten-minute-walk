@@ -34,4 +34,5 @@ On CML type:<br>
 rspec<br>
 
 # Build status:
-Testing
+Completed - Passing tests.
+Completed - Exercise.
